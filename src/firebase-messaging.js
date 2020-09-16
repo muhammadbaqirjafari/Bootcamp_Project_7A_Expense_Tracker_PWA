@@ -1,4 +1,6 @@
 import firebase from 'firebase/app';
+import 'firebase/messaging';
+import 'firebase/firestore';
 
 export default function firebaseMessaging() {
     var firebaseConfig = {
