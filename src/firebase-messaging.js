@@ -28,8 +28,8 @@ export default function firebaseMessaging() {
         console.log("Token : ", token);
 
         // Now stroe the generated token to database
-        db.collection('messaging-db').add({
-            Token : token
+        db.collection('messaging-db').doc('token').set({
+            Token: token
         });
     })
     .catch(err => {
