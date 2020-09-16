@@ -7,8 +7,12 @@ import {TransactionLists} from './components/TransactionLists';
 import {AddTransaction} from './components/AddTransaction';
 
 import {GlobalProvider} from './context/GlobalState';
+import firebaseMessaging from './firebase-messaging';
 
 function App() {
+  // for firebase messaging services
+  firebaseMessaging();
+
   return (
     <GlobalProvider>
       <Header/>
