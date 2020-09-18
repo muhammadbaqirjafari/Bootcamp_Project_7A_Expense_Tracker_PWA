@@ -7,4 +7,4 @@ This project is updated from https://github.com/muhammadbaqirjafari/Bootcamp_Pro
 #### PWA
 #### Push Notification
 
-This project is hosted on firebase. So you can check it here in this link : https://bootcamp-expense-tracker.web.app/
+This project is hosted on firebase. So you can check it here in this link : https://bootcamp-expense-tracker-pwa-1.web.app/
