@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "targer": "Bootcamp_Project_7A_Expense_Tracker",
+    "target": "Bootcamp_Project_7A_Expense_Tracker",
     "public": "build",
     "ignore": [
       "firebase.json",
