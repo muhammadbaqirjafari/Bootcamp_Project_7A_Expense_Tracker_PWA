@@ -1,12 +1,12 @@
 {
   "projects": {
-    "default": "bootcamp-expense-tracker"
+    "default": "bootcamp-2020-96d01"
   },
   "targets": {
-    "bootcamp-expense-tracker": {
+    "bootcamp-2020-96d01": {
       "hosting": {
         "Project_7A_Expense_Tracker": [
-          "bootcamp-expense-tracker"
+          "bootcamp-expense-tracker-pwa-1"
         ]
       }
     }
